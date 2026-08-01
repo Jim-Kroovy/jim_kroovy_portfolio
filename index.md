@@ -1,16 +1,15 @@
 ---
 layout: default
 title: Technical Portfolio
+description: Selected technical art, animation and gameplay programming work.
 ---
 
-# Jim Kroovy
-
-**Technical Artist · Unreal Engine Programmer · Blender Tools Developer**
-
-Selected work covering Unreal Engine C++, Blueprints, Control Rig, animation systems, Blender Python, rigging and technical art.
-
----
+Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation systems, Blender Python, Rigging, Sculpting, Retopology and Technical Art.
 
 ## Projects
 
-- [Ear Sculpt & Retopology](projects/ear-sculpt-and-retopology.html)
+### Character Art
+
+[**Ear Sculpt & Retopology**](projects/ear-sculpt-and-retopology.html)
+
+Human ear sculpting and production-ready retopology demonstrating anatomical understanding and clean edge flow.

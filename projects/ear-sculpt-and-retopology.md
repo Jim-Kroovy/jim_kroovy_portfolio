@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ear Sculpt & Retopology
-description: Human ear sculpting and production-ready retopology project.
+description: Human ear sculpting and production-ready retopology.
 ---
 
 # Ear Sculpt & Retopology
@@ -25,7 +25,7 @@ description: Human ear sculpting and production-ready retopology project.
 
 A high-poly sculpt and production-ready retopology of a human ear, demonstrating anatomical understanding and clean edge flow suitable for deformation using a bone to scale and morph targets to shape within a character creator.
 
-## Demonstrates
+## Skills Demonstrated
 
 - 3D Sculpting
 - Retopology
