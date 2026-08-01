@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
 
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        {% if page.title %}
+            {{ page.title }} | Jim Kroovy
+        {% else %}
+            Jim Kroovy | Technical Portfolio
+        {% endif %}
+    </title>
+
+    <meta
+        name="description"
+        content="{{ page.description | default: site.description }}"
+    >
+
+    <link
+        rel="stylesheet"
+        href="{{ '/style.css' | relative_url }}"
+    >
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container">
+            <a
+                class="site-title"
+                href="{{ '/' | relative_url }}"
+            >
+                Jim Kroovy
+            </a>
+
+            <p class="site-subtitle">
+                Technical Artist · Gameplay Programmer
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+        {{ content }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>© {{ site.time | date: "%Y" }} Jim Kroovy</p>
+        </div>
+    </footer>
+</body>
+</html>

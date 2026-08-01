@@ -1,3 +1,8 @@
+---
+layout: default
+title: Technical Portfolio
+---
+
 # Jim Kroovy
 
 **Technical Artist · Unreal Engine Programmer · Blender Tools Developer**
