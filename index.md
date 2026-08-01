@@ -8,4 +8,4 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, animation sys
 
 ## Projects
 
-Portfolio entries will be added here.
+- [Ear Sculpt & Retopology](projects/ear-sculpt-retopology.html)
