@@ -6,11 +6,7 @@ description: Human ear sculpting and production-ready retopology.
 
 # Ear Sculpt & Retopology
 
-> Character Art • Blender • 2026 • ~4 Hours
-
-![Ear Sculpt and Retopology](../images/ear-sculpt-and-retopology.png)
-
-## Demo
+> Character Art • Blender • 2023 • 4 Hours
 
 <div class="video-wrapper">
   <iframe

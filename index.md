@@ -13,3 +13,7 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation sys
 [**Ear Sculpt & Retopology**](projects/ear-sculpt-and-retopology.html)
 
 Human ear sculpting and production-ready retopology demonstrating anatomical understanding and clean edge flow.
+
+[**Character Creator**](projects/character-creator.html)
+
+A real-time character creator for customising and presenting player avatars in Unreal Engine.

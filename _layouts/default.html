@@ -20,10 +20,10 @@
         name="description"
         content="{{ page.description | default: site.description }}"
     >
-
+    <!-- update v=x whenever submitting to force css refresh -->
     <link
         rel="stylesheet"
-        href="{{ '/style.css' | relative_url }}"
+        href="{{ '/style.css?v=1' | relative_url }}"
     >
 </head>
 
