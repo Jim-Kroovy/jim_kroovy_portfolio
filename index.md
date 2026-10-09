@@ -4,7 +4,7 @@ title: Technical Portfolio
 description: Selected technical art, animation and gameplay programming work.
 ---
 
-> **Work in progress:** After five years of professional game development in a studio, I have a substantial archive of work to review and document. This portfolio is actively being expanded, with demo reels.
+> **Work in progress:** After five years of professional game development in a studio, I have a substantial archive of work to review and document. This portfolio currently has placeholders and is actively being expanded with demo reels.
 
 Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation systems, Blender Python, Rigging, Sculpting, Retopology and Technical Art.
 
