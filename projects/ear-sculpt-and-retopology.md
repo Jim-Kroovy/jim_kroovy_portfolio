@@ -6,7 +6,7 @@ description: Human ear sculpting and production-ready retopology.
 
 # Ear Sculpt & Retopology
 
-> Character Art • Blender • 2023 • 4 Hours
+> Character Art • Blender
 
 <div class="video-wrapper">
   <iframe
