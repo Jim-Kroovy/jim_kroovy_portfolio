@@ -4,7 +4,7 @@ title: Technical Portfolio
 description: Selected technical art, animation and gameplay programming work.
 ---
 
-> **Work in progress:** After five years of professional game development, I have a substantial archive of work to review and document. This portfolio is actively being expanded, with demo reels.
+> **Work in progress:** After five years of professional game development in a studio, I have a substantial archive of work to review and document. This portfolio is actively being expanded, with demo reels.
 
 Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation systems, Blender Python, Rigging, Sculpting, Retopology and Technical Art.
 
@@ -14,7 +14,7 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation sys
 
 [**Ear Sculpt & Retopology**](projects/ear-sculpt-and-retopology.html)
 
-Human ear sculpting and production-ready retopology demonstrating anatomical understanding and clean edge flow.
+Human ear sculpting and retopology for an update to a higher resolution character model. (needs retopology footage)
 
 [**Character Creator**](projects/character-creator.html)
 
@@ -24,7 +24,7 @@ A real-time character creator for customising and saving player avatars in for a
 
 [**Dynamic Gun Rigging**](projects/dynamic-gun-rigging.html)
 
-A reusable Control Rig for aiming, firing, and recoil that additively overrides the upper body without baked animation.
+A reusable Control Rig for aiming, firing, and recoil that additively overrides the upper body without animation.
 
 [**Dynamic Vehicle Rigging**](projects/dynamic-vehicle-rigging.html)
 
@@ -32,4 +32,4 @@ A reusable Control Rig that makes the character lean in response to vehicle spee
 
 [**Dynamic Jetpack Rigging**](projects/dynamic-jetpack-rigging.html)
 
-A procedural IK-driven Control Rig that creates responsive body and limb movement during free flight.
+A confirgurable IK-driven Control Rig that creates responsive body and limb movement during free flight.
