@@ -43,6 +43,25 @@ body {
     border-bottom: 1px solid var(--border);
 }
 
+.site-header-content {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.site-profile-image {
+    flex: 0 0 76px;
+    width: 76px;
+    height: 76px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 8px 24px rgb(0 0 0 / 35%);
+}
+
+.site-identity {
+    min-width: 0;
+}
+
 .site-title {
     display: inline-block;
     color: var(--text);
@@ -225,6 +244,16 @@ li {
 
     .site-title {
         font-size: 25px;
+    }
+
+    .site-header-content {
+        gap: 13px;
+    }
+
+    .site-profile-image {
+        flex-basis: 62px;
+        width: 62px;
+        height: 62px;
     }
 
     .site-subtitle {

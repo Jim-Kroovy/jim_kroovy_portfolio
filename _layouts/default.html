@@ -23,24 +23,32 @@
     <!-- update v=x whenever submitting to force css refresh -->
     <link
         rel="stylesheet"
-        href="{{ '/style.css?v=1' | relative_url }}"
+        href="{{ '/style.css?v=2' | relative_url }}"
     >
 </head>
 
 <body>
     <header class="site-header">
-        <div class="container">
-            <a
-                class="site-title"
-                href="{{ '/' | relative_url }}"
+        <div class="container site-header-content">
+            <img
+                class="site-profile-image"
+                src="{{ '/images/WorkProfile.png' | relative_url }}"
+                alt="James Goldsworthy"
             >
-                James Goldsworthy
-                <span class="site-alias">(Jim Kroovy)</span>
-            </a>
 
-            <p class="site-subtitle">
-                Senior Technical Artist · Technical Animator · Gameplay Programmer · Wizard
-            </p>
+            <div class="site-identity">
+                <a
+                    class="site-title"
+                    href="{{ '/' | relative_url }}"
+                >
+                    James Goldsworthy
+                    <span class="site-alias">(Jim Kroovy)</span>
+                </a>
+
+                <p class="site-subtitle">
+                    Senior Technical Artist · Technical Animator · Gameplay Programmer · Wizard
+                </p>
+            </div>
         </div>
     </header>
 
