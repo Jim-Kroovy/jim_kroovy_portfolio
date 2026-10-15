@@ -6,8 +6,6 @@ description: Human ear sculpting and production-ready retopology.
 
 # Ear Sculpt & Retopology
 
-> Character Art • Blender
-
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube-nocookie.com/embed/eeRLTmH1D3M"

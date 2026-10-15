@@ -6,8 +6,6 @@ description: A procedural IK-driven Control Rig for responsive character movemen
 
 # Dynamic Jetpack Rigging
 
-> Technical Animation • Unreal Engine • Control Rig
-
 *Video coming soon.*
 
 ## Overview

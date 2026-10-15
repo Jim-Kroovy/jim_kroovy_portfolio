@@ -6,8 +6,6 @@ description: A real-time character creator for customising player avatars.
 
 # Character Creator
 
-> Character Art • Blender • ZBrush • Unreal Engine
-
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube-nocookie.com/embed/8bwGg7Zk6ZI"

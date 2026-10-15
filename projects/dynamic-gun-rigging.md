@@ -6,8 +6,6 @@ description: A procedural Control Rig system for aiming, firing, and recoil with
 
 # Dynamic Gun Rigging
 
-> Technical Animation • Unreal Engine • Control Rig
-
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube-nocookie.com/embed/vOFz9Wi4OtU"

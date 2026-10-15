@@ -6,8 +6,6 @@ description: A dynamic pose-driven Control Rig that responds to vehicle speed an
 
 # Dynamic Vehicle Rigging
 
-> Technical Animation • Unreal Engine • Control Rig
-
 *Video coming soon.*
 
 ## Overview
