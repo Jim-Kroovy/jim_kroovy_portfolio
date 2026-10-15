@@ -8,7 +8,14 @@ description: A real-time character creator for customising player avatars.
 
 > Character Art • Blender • ZBrush • Unreal Engine
 
-*Video coming soon.*
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/8bwGg7Zk6ZI"
+    title="Character Creator"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Overview
 

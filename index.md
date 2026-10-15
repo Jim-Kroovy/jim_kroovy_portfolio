@@ -12,13 +12,13 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation sys
 
 ### Character Art
 
-[**Ear Sculpt & Retopology**](projects/ear-sculpt-and-retopology.html)
-
-Human ear sculpting and retopology for an update to a higher resolution character model. (needs retopology footage)
-
 [**Character Creator**](projects/character-creator.html)
 
-A real-time character creator for customising and saving player avatars in for a multiplayer game.
+A real-time character creator for customising and saving player avatars for a multiplayer game.
+
+[**Ear Sculpt & Retopology**](projects/ear-sculpt-and-retopology.html)
+
+Human ear sculpting and retopology for an update to a higher resolution character model.
 
 ### Technical Animation
 
