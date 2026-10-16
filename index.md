@@ -14,7 +14,7 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation sys
 
 [**Mr Mannequins Tools**](projects/mr-mannequins-tools.html)
 
-A Blender toolkit that makes rigging, animation, and character workflows simple and intuitive.
+A Blender toolkit that makes rigging, animation, and FBX character workflows simple and intuitive.
 
 ### Character Art
 
