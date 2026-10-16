@@ -6,6 +6,8 @@ description: A Blender toolkit awarded an Epic MegaGrant that makes Unreal Engin
 
 # Mr Mannequins Tools
 
+> **Work in progress:** This workflow guide previews an upcoming update to Mr Mannequins Tools.
+
 <div class="video-wrapper">
   <iframe
     src="https://www.youtube-nocookie.com/embed/9NU76bv7mOk"
