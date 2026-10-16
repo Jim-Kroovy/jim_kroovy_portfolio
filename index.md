@@ -14,7 +14,7 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation sys
 
 [**Mr Mannequins Tools**](projects/mr-mannequins-tools.html)
 
-A Blender toolkit awarded an Epic MegaGrant that makes rigging, animation, and Unreal Engine character workflows simple and intuitive.
+A Blender toolkit that makes rigging, animation, and character workflows simple and intuitive.
 
 ### Character Art
 
@@ -30,7 +30,7 @@ Human ear sculpting and retopology for an update to a higher resolution characte
 
 [**Dynamic Gun Rigging**](projects/dynamic-gun-rigging.html)
 
-A reusable Control Rig for aiming, firing, and recoil that additively overrides the upper body without animation.
+A reusable Control Rig for aiming, firing, and recoil that additively overrides the upper body animation.
 
 [**Dynamic Vehicle Rigging**](projects/dynamic-vehicle-rigging.html)
 
