@@ -10,6 +10,12 @@ Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation sys
 
 ## Projects
 
+### Tools & Pipeline
+
+[**Mr Mannequins Tools**](projects/mr-mannequins-tools.html)
+
+A Blender toolkit awarded an Epic MegaGrant that makes rigging, animation, and Unreal Engine character workflows simple and intuitive.
+
 ### Character Art
 
 [**Character Creator**](projects/character-creator.html)
