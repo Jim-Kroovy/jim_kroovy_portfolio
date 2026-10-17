@@ -4,11 +4,9 @@ title: Technical Portfolio
 description: Selected technical art, animation and gameplay programming work.
 ---
 
-> **Work in progress:** After five years of professional game development in a studio, I have a substantial archive of work to review and document. This portfolio currently has placeholders and is actively being expanded with demo reels.
+> **Work in progress:** After five years of professional game development with a studio, I have a substantial archive of work to review and document. This portfolio currently has placeholders and is actively being expanded with demo reels.
 
 Selected work covering Unreal Engine C++, Blueprints, Control Rig, Animation systems, Blender Python, Rigging, Sculpting, Retopology and Technical Art.
-
-## Projects
 
 ### Tools & Pipeline
 
@@ -34,8 +32,8 @@ A reusable Control Rig for aiming, firing, and recoil that additively overrides 
 
 [**Dynamic Vehicle Rigging**](projects/dynamic-vehicle-rigging.html)
 
-A reusable Control Rig that makes the character lean in response to vehicle speed and angular velocity.
+A reusable Control Rig that poses the character and leans in response to vehicle speed and angular velocity.
 
 [**Dynamic Jetpack Rigging**](projects/dynamic-jetpack-rigging.html)
 
-A confirgurable IK-driven Control Rig that creates responsive body and limb movement during free flight.
+A full body Control Rig that creates responsive body and limb movement during free flight.
